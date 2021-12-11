@@ -4,8 +4,7 @@
 1. To play, go to Missions > Custom Scenario > Begin Mission
 2. Place a module to build a tower. Place a different module on top to get elemental powers, or the same module to create a new type of tower
 3. Normal left click on a tower to see its stats, and levelup/sell it
-4. Building a tower is $100, putting a second module on costs 50, levelup costs 150
+4. Building a tower is $100, putting a second module on costs 50, levelup is based on current tower level
 5. Killing a boss every 10 waves grants a Super point that can be applied to a same-module tower to turn it into yet another new tower type, and in a future build will be exchangeable for HP.
 6. ESC to pause. Some of this UI element is incomplete/does not work
-
--I know the tutorial is broke, don't play it
+7. The tutorial is functional
