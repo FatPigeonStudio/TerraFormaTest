@@ -1,7 +1,7 @@
 {
 "companyName": "Fat Pigeon Studio",
 "productName": "Terra Forma TD",
-"productVersion": "Testing3",
+"productVersion": "Testing5",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
